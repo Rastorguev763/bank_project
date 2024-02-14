@@ -10,6 +10,12 @@
    git clone https://github.com/Rastorguev763/bank_project.git
    ```
 
+    Перейти в деректорию
+
+    ```bash
+    cd bank_project
+    ```
+
 2. Установить зависимости:
 
    ```bash
